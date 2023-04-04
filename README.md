@@ -1,7 +1,7 @@
 ### Olá!!! Meu nome é Miguel Felipe 👋
 
 
-- 🔭 Atualmente estou cursando um Técnico em Desenvolvimento de Sistemas ...
+- 🔭 Técnico em Desenvolvimento de sistemas
 
 <br>
 <div align="center">
